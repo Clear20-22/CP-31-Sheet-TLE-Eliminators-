@@ -7,12 +7,17 @@ This repository contains organized solutions to problems from **Codeforces**, so
 - `Codeforces Rating 800` – Problems with a difficulty rating of 800
 - `Codeforces Rating 900` – Problems with a difficulty rating of 900
 - `Codeforces Rating 1000` – Problems with a difficulty rating of 1000
+- `Codeforces Rating 1000` – Problems with a difficulty rating of 1100
+- `Codeforces Rating 1000` – Problems with a difficulty rating of 1200
+- `Codeforces Rating 1000` – Problems with a difficulty rating of 1300
+- `Codeforces Rating 1000` – Problems with a difficulty rating of 1400
+- `Codeforces Rating 1000` – Problems with a difficulty rating of 1500
 - `.vscode` – Editor settings for consistent formatting and environment
 
 ## 🚀 Languages Used
 
-- **C++** – 63.5%
-- **Python** – 36.5%
+- **C++** – 60%
+- **Python** – 40%
 
 ## 📌 How to Use
 
@@ -31,9 +36,15 @@ Each folder contains source code files for problems solved from Codeforces. You 
 ## 📈 Progress
 
 Currently includes solutions with ratings:
+
 - ✅ 800
 - ✅ 900
 - ✅ 1000
+- ✅ 1100
+- ✅ 1200
+- ✅ 1300
+- ✅ 1400
+- ✅ 1500
 
 More to be added soon!
 
