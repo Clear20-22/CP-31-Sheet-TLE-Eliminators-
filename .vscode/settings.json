@@ -16,5 +16,6 @@
         "unordered_set": "cpp",
         "vector": "cpp",
         "iostream": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "enabled"
 }
