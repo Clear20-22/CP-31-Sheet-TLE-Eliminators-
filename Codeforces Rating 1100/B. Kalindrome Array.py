@@ -1,5 +1,6 @@
 # Problem: https://codeforces.com/problemset/problem/1610/B
 # Solution: https://codeforces.com/contest/1610/submission/323361119
+# Optimized: Avoid creating reversed list copy for palindrome check
 
 def check(x: int, arr: list) -> bool:
     l, r = 0, len(arr) - 1
@@ -13,7 +14,14 @@ def check(x: int, arr: list) -> bool:
         l += 1
         r -= 1
     return True
- 
+
+def is_palindrome(arr: list) -> bool:
+    """Check if array is palindrome without creating reversed copy"""
+    n = len(arr)
+    for i in range(n // 2):
+        if arr[i] != arr[n - 1 - i]:
+            return False
+    return True
 
 def solve():
     n = int(input())
@@ -32,7 +40,7 @@ def solve():
                 return
             break
         
-    if arr == arr[::-1]:
+    if is_palindrome(arr):
         print("YES")
         return
     
