@@ -1,7 +1,9 @@
 // Problem : https: // codeforces.com/problemset/problem/1840/C
 // Solution : https: // codeforces.com/contest/1840/submission/267624039
+// Optimized: Replaced bits/stdc++.h with specific includes
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
 using namespace std;
 
 #define Boost ios_base::sync_with_stdio(false), cin.tie(NULL), cout.tie(NULL);

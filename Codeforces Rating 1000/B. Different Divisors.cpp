@@ -1,7 +1,11 @@
 // Problem : https: // codeforces.com/problemset/problem/1474/B
 // Solution : https: // codeforces.com/contest/1474/submission/282677372
+// Optimized: Replaced bits/stdc++.h with specific includes
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <algorithm>
+#include <limits>
 using namespace std;
 
 #define Bismillah ios_base::sync_with_stdio(false), cin.tie(NULL), cout.tie(NULL);
