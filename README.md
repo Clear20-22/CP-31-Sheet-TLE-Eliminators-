@@ -84,6 +84,7 @@ Pull requests are welcome!
 - **Time Complexity:** Always consider the efficiency of your solution
 - **Edge Cases:** Test with boundary conditions and edge cases
 - **Learn from Others:** Study multiple approaches to the same problem
+- **Write Efficient Code:** See [OPTIMIZATION_GUIDE.md](OPTIMIZATION_GUIDE.md) for best practices
 
 ## 🔗 Useful Links
 

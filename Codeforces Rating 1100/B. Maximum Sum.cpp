@@ -1,7 +1,11 @@
 // Problem: https://codeforces.com/contest/1832/problem/B
 // Solution: https://codeforces.com/contest/1832/submission/263046397
+// Optimized: Replaced bits/stdc++.h with specific includes
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <algorithm>
+#include <climits>
 using namespace std;
 
 void solve()

@@ -1,7 +1,9 @@
 // Problem: https://codeforces.com/contest/1632/problem/B
 // Solution: https://codeforces.com/contest/1632/submission/333235371
+// Optimized: Replaced bits/stdc++.h with specific includes
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
 using namespace std;
 
 #define int long long

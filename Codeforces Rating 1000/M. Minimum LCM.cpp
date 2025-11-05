@@ -1,7 +1,8 @@
 // Problem : https: // codeforces.com/problemset/problem/1765/M
 // Solution : https: // codeforces.com/contest/1765/submission/266303821
+// Optimized: Replaced bits/stdc++.h with specific includes
 
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 #define boost ios_base::sync_with_stdio(false), cin.tie(NULL), cout.tie(NULL);
 #define multi_test \

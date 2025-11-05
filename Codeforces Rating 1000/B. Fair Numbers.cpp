@@ -1,7 +1,8 @@
 // Problem : https: // codeforces.com/problemset/problem/1411/B
 // Solution : https: // codeforces.com/contest/1411/submission/249498657
+// Optimized: Replaced bits/stdc++.h with specific includes
 
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 bool ha(long long n)
 {
